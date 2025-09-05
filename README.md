@@ -47,8 +47,6 @@ Here is an under 4 minutes walkthrough of the agent in action:
 
 https://github.com/user-attachments/assets/cdd2da8f-2d9d-4794-ada5-da161a8861fd
 
-A youtube version of the demo is available [here](https://youtu.be/SLVRdihoRwI).
-
 ## Installation / self-hosted
 
 We provide docker images for the agent itself. The only other dependency is a Postgres database in which the agent will store its configuration, state, and history.
